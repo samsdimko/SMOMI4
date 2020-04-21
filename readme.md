@@ -28,9 +28,9 @@
 
 1) Коэффициент 0.3
 
-| image = tf.image.random_brightness(image, 0.5, seed=None)   |
-| ----------------------------------------------------------- |
-| image = tf.image.random_contrast.image(0.4, 1.4, seed=None) |
+​    image = tf.image.random_brightness(image, 0.5, seed=None)
+
+​    image = tf.image.random_contrast.image(0.4, 1.4, seed=None)
 
 ![Image alt](https://github.com/samsdimko/SMOMI4/blob/master/br03.png)
 
